@@ -7,8 +7,7 @@ namespace Ex1
         static void Main(string[] args)
         {
             var program = new Program();
-            //program.Bai3();
-            program.Bai12();
+        
             
         }
 
